@@ -1,7 +1,12 @@
 
-Professional Account.
+Professional Account:
 
-Machine Learning related.
++ Big Data
++ Big Data Machine Learning.
++ Machine Learning research.
+
+
+
 
 
 <!--
