@@ -1,28 +1,32 @@
 
 Professional Account only.
 
-This is a quick summary of my expertises (ie actual experience in production level projects)
+This is a quick summary of my expertises (ie actual experience in production level projects).
+
 
 + Big Data Systems
 
    - Large Scale Key-Value Store ( Cassandra, ScyllaDB, Aerospike, CouchBase).
    - Hadoop stack :  HDFS, Hive, Spark, Hbase
-   = Kubernetes  : kubectl
+   - Kubernetes  : Kubectl, Dockers...
+   - Batching    : Airflow, AWX (Red Hat), Mesos 
   
    
 
 + Big Data Machine Learning.
 
    - Click data (advertisement), Image data, Japanese NLP data, ....
+   - Ad Recommendation/Search system 
+   - Pytorch, Tensorflow (Keras)
    - Deep Learning compilers
-   - Vector Databases
-   - Recommendation/Search system
+   - Vector/Embedding Databases
+   - Information Retrieval.
    - Time Series prediction
 
 
 + Machine Learning research.
 
-   - Recommendation System/Information retrieval (Top-K   ).
+   - Recommendation System/Information retrieval (Top-K   ), Bandit
    - Reinforcement Learning
    - Various internal Presentation on Deep Learning/Machine Learning.
    - Talk on the state of ML (IAQF, New York, Fordham University 2019).
