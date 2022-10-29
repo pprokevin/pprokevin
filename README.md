@@ -10,9 +10,9 @@ Professional Account:
 
 + Big Data Machine Learning.
 
-   = Deep Learning compilers
-   = Vector Databases
-   = Recommendation/Search system
+   - Deep Learning compilers
+   - Vector Databases
+   - Recommendation/Search system
    
 
 + Machine Learning research.
