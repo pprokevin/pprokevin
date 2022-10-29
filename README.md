@@ -1,5 +1,7 @@
 
-Professional Account:
+Professional Account only.
+
+This is a quick summary of my expertises (ie actual experience in production level projects)
 
 + Big Data Systems
 
@@ -11,7 +13,7 @@ Professional Account:
 
 + Big Data Machine Learning.
 
-   - Click data, Image data, Japanese NLP data, ....
+   - Click data (advertisement), Image data, Japanese NLP data, ....
    - Deep Learning compilers
    - Vector Databases
    - Recommendation/Search system
