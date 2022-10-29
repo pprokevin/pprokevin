@@ -6,14 +6,17 @@ Professional Account:
    - Large Scale Key-Value Store ( Cassandra, ScyllaDB, Aerospike, CouchBase).
    - Hadoop stack :  HDFS, Hive, Spark, Hbase
    = Kubernetes  : kubectl
+  
    
 
 + Big Data Machine Learning.
 
+   - Click data, Image data, Japanese NLP data, ....
    - Deep Learning compilers
    - Vector Databases
    - Recommendation/Search system
-   
+   - Time Series prediction
+
 
 + Machine Learning research.
 
